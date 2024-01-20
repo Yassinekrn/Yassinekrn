@@ -13,11 +13,11 @@
 
 - ⚙️ I use daily: **.ts, .tsx, .js, .css**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
   
 - 🌍 I'm mostly active within the **Javascript Community**
 
-- 💬 Ask me about **anything web related**
+- 💬 Ask me about **Anything Web Related**
 
 
 
