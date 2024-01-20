@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg)
+[![MasterHead](https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Yassine Krichen</h1>
 <h3 align="center">A passionate frontend student from Tunisia</h3>
 
@@ -10,17 +10,18 @@
 
 <p align="left"> <a href="https://twitter.com/noel v" target="blank"><img src="https://img.shields.io/twitter/follow/noel v?logo=twitter&style=for-the-badge" alt="noel v" /></a> </p>
 
-- 🔭 I’m currently working on **a Portfolio Project**
 
-- 🌱 I’m currently learning **full stack development**
 
-- 👯 I’m looking to collaborate on **Full stack project**
+- ⚙️ I use daily: **.ts, .tsx, .js, .html, .css**
 
-- 💬 Ask me about **anything front end related**
+- 👯 I’m looking to collaborate on **full stack projects**
+  
+- 🌍 I'm mostly active within the Javascript Community
 
-- 📫 How to reach me **krichenyassine22@gmail.com**
+- 💬 Ask me about **anything web related**
 
-- ⚡ Fun fact **I eat a lot, but never get fat.**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
