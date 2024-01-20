@@ -1,13 +1,13 @@
 
 <img style="aspect-ratio: 16 / 9;" src="https://media.licdn.com/dms/image/D4D16AQGZYvzE0o1H9w/profile-displaybackgroundimage-shrink_350_1400/0/1704107600897?e=1710979200&v=beta&t=K9OXTI8lFhxFvzIPtPUgpY1ltnBd9XK9tGYQP9g1JYA"/>
 
-<h1 align="center">👋 Hi there ~ I'm Yassine</h1>
+<h1 align="center">👋 Hi there ~ </h1>
 
 
 ## 📖 About me:
 
 ```
-    I am a dedicated 2nd-year Information Technology student, and my passion lies in the world of Full Stack Web Development.
+    I'm a dedicated 2nd-year Information Technology student, and my passion lies in the world of Full Stack Web Development.
 ```
 
 
