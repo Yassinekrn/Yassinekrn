@@ -7,7 +7,7 @@
 ## 📖 About me:
 
 ```
-    I am a dedicated 2nd-year Information Technology student, and my passion lies in the world of Full Stack Web Development. I pride myself on my comprehensive knowledge and mastery of full-stack technologies, which are at the heart of the digital age.
+    I am a dedicated 2nd-year Information Technology student, and my passion lies in the world of Full Stack Web Development.
 ```
 
 
