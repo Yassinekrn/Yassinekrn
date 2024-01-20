@@ -1,5 +1,5 @@
 
-<img style="aspect-ratio: 16 / 9;" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+<img style="aspect-ratio: 16 / 9;" src="https://media.licdn.com/dms/image/D4D16AQGZYvzE0o1H9w/profile-displaybackgroundimage-shrink_350_1400/0/1704107600897?e=1710979200&v=beta&t=K9OXTI8lFhxFvzIPtPUgpY1ltnBd9XK9tGYQP9g1JYA"/>
 
 <h1 align="center">👋 Hi there ~ I'm Yassine</h1>
 
