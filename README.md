@@ -6,9 +6,9 @@
 
 ## 📖 About me:
 
-```
+`
     I'm a dedicated 2nd-year Information Technology student, and my passion lies in the world of Full Stack Web Development.
-```
+`
 
 
 - ⚙️ I use daily: **.ts, .tsx, .js, .css**
